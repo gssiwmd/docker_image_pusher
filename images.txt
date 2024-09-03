@@ -1,4 +1,7 @@
+#Common
 nginx
+mysql:5.7
+wordpress:latest
 #小雅-TVBOX
 haroldli/xiaoya-tvbox:latest
 #文件浏览器
