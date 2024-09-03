@@ -1,2 +1,11 @@
 nginx
+#小雅-TVBOX
 haroldli/xiaoya-tvbox:latest
+#文件浏览器
+filebrowser/filebrowser:latest
+#freenom域名自动续期
+luolongfei/freenom:latest
+# nginxproxymanager
+jc21/nginx-proxy-manager:latest
+#frps
+snowdreamtech/frps:latest
