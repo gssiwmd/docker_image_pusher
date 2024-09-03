@@ -9,3 +9,5 @@ luolongfei/freenom:latest
 jc21/nginx-proxy-manager:latest
 #frps
 snowdreamtech/frps:latest
+#容器管理器社区版
+portainer/portainer-ce:latest
