@@ -14,3 +14,5 @@ jc21/nginx-proxy-manager:latest
 snowdreamtech/frps:latest
 #容器管理器社区版
 portainer/portainer-ce:latest
+#容器管理器企业版
+portainer/portainer-ee:latest
